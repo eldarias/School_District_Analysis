@@ -3,6 +3,10 @@
 ## Project Overview
 The purpose of this project was to perform a new analysis of the School District dataset and compare the overall results to observe the potential impact of removing data.  The new analysis data was kept intact except that the 9th grade reading and math scores at the Thomas High School were marked with _"NaN"_ therefore that data/scores were not taken into account on the new analysis.
 
+Here are the Jupyner Notebook files used to analyze the data:
+  - [PyCitySchools.ipynb - Original](https://github.com/eldarias/School_District_Analysis/blob/main/PyCitySchools.ipynb)
+  - [PyCitySchools_Challenge.ipynb - Updated](https://github.com/eldarias/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
+
 ## Results
 Below are the results for the data comparison between the original results and the new results.
 
